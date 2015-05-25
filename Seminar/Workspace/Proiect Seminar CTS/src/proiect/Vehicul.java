@@ -11,7 +11,7 @@ public class Vehicul {
 	@Override
 	public String toString() {
 		
-		return this.marca+ " " + this.getMarca()+ " " + this.getPret();
+		return this.getMarca()+ " " + this.getPret();
 	}
 	
 	public Vehicul() {

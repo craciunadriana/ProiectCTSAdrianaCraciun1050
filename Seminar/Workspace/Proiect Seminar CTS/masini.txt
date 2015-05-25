@@ -1,0 +1,4 @@
+categorie 1,1234,serie 1,200.0,2
+Bucuresti ,1,Focsani,2,
+categorie 2,3567,serie 2,800.6,5
+Bucuresti ,1,Focsani,2,
